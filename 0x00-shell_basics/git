@@ -1,0 +1,5 @@
+#!/bin/bash
+read comen
+git add .
+git commit -m "comen"
+git push
