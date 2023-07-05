@@ -1,1 +1,2 @@
-file -k -b -m "SCHOOL"  
+0   string SCHOOL School data
+!:mime school  
